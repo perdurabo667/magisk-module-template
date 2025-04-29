@@ -1,0 +1,5 @@
+id=harvester-osint
+name=theHarvester OSINT Tool
+version=1.0
+author=Perdurabo
+description=Run theHarvester for OSINT from Android terminal
