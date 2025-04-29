@@ -1,8 +1,0 @@
-magisk-harvester/
-├── module.prop
-├── post-fs-data.sh
-├── service.sh
-├── uninstall.sh
-└── system/
-    └── bin/
-        └── harvester-osint
